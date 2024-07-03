@@ -1,0 +1,15 @@
+[submodule "binutils"]
+	path = binutils
+	url = https://cygwin.com/git/cygwin-packages/binutils
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/Windows-on-ARM-Experiments/cygwin-gcc-package.git
+[submodule "cygwin"]
+	path = cygwin
+	url = https://cygwin.com/git/cygwin-packages/cygwin
+[submodule "gettext"]
+	path = gettext
+	url = https://cygwin.com/git/cygwin-packages/gettext
+[submodule "libiconv"]
+	path = libiconv
+	url = https://cygwin.com/git/cygwin-packages/libiconv
